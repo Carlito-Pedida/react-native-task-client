@@ -1,0 +1,30 @@
+#container {
+  text-align: left;
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #8c8c8c;
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+.heads {
+  background-color: var(--ion-color-task-tint);
+}
+.add {
+  border: solid 1px;
+  border-color: rgb(63, 64, 65);
+  border-radius: 50%;
+  padding: 10px;
+  height: 80px;
+  width: 80px;
+}

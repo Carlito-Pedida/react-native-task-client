@@ -1,0 +1,7 @@
+{
+  "name": "task-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
